@@ -46,7 +46,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 * Responsive templates
 
 ## More information
-Find more about modified eCommerce module on: https://www.novalnet.de/site_pdf/IG-modifiedeCommerce_1.06-2.0.5.1-r12725_novalnet_11.2.1.pdf<br>
+Find more about modified eCommerce module on: https://www.novalnet.de/site_pdf/IG-modifiedeCommerce_1.06-2.0.7.2-r14622_novalnet_11.2.1.pdf<br>
 
 ## Contact
 Novalnet AG<br>
