@@ -53,7 +53,7 @@ Find more about modified eCommerce module on: https://www.novalnet.de/site_pdf/I
 ## Contact
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
-Gutenbergstr. 7 <br>
+Gutenbergstraße 7 <br>
 D-85748 Garching <br>
 Deutschland<br>
 E-mail: sales@novalnet.de<br>
