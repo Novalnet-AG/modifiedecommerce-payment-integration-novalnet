@@ -48,7 +48,7 @@ Through the individuality and flexibility, you can choose which payment methods 
  * PayPal
 
 ## More information
-Find more about modified eCommerce module on: https://www.novalnet.de/site_pdf/IG-modifiedeCommerce_1.06-3.1.4-r16453_novalnet_11.3.1.pdf<br>
+Find more about modified eCommerce module on: https://www.novalnet.de/site_pdf/IG-modifiedeCommerce_1.06-3.1.5-r16522_novalnet_11.3.1.pdf<br>
 
 
 ## Contact
