@@ -4,7 +4,7 @@ Novalnet payment module for modified eCommerce simplifies your daily work by aut
 Novalnet payment module for modified eCommerce is available in <b>EN, DE</b>
 
 ## Integration requirements for modified eCommerce
-Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this modified eCommerce Payment Gateway. The module is available for the modified eCommerce versions 1.06 to 3.1.4-r16453 in the following languages: EN & DE
+Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this modified eCommerce Payment Gateway. The module is available for the modified eCommerce versions 1.06 to 3.1.5-r16522 in the following languages: EN & DE
 
 Through the individuality and flexibility, you can choose which payment methods and services you need. Get now a seamless integration with the various types of payments and payment-related services integrated in the one unique platform.
 
